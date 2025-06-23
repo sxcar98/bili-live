@@ -8,15 +8,19 @@
 https://www.bilibili.com/video/BV1iHbueDEaw/
 
 ## Install
+
 ### Precompiled Binarys
+
 Precompiled binarys available at https://github.com/HellOwhatAs/bili-live/releases.
 
 ### Install with Cargo
+
 ```
-cargo install -git https://github.com/sxcar98/bili-live
+cargo install --git https://github.com/sxcar98/bili-live
 ```
 
 ## Usage
+
 ```
 A command line tool for starting and stopping live streams on bilibili.com, capable of providing the RTMP address and stream key for streaming software such as OBS.
 
