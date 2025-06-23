@@ -13,7 +13,7 @@ Precompiled binarys available at https://github.com/HellOwhatAs/bili-live/releas
 
 ### Install with Cargo
 ```
-cargo install bili-live
+cargo install -git https://github.com/sxcar98/bili-live
 ```
 
 ## Usage
